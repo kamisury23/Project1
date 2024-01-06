@@ -9,6 +9,8 @@ public class TestDemo {
 		
 		System.out.println("Exercise 1");
 		
+		System.out.println("Practice stashing");
+		
 	}
 
 }
