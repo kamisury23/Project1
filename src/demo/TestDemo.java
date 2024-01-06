@@ -11,6 +11,10 @@ public class TestDemo {
 		
 		System.out.println("Practice stashing");
 		
+		System.out.println("Today is not Tuesday");
+		
+		System.out.println("Group practice");
+		
 	}
 
 	//This is coming from Github
